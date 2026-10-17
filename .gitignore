@@ -1,0 +1,23 @@
+# Secrets and Authentication
+.env
+*.env
+cookies.txt
+*.cookie
+credentials.json
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+venv/
+.venv/
+env/
+
+# OS and Editor files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
